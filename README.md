@@ -39,6 +39,7 @@ Family Income
 **Project Workflow**
 1. Data Collection
 A dataset containing student academic and behavioral attributes was used for the analysis. The data includes variables related to study habits, institutional support, and lifestyle factors.
+
 2. Data Cleaning & Preparation
 Data preprocessing was performed using Pandas to ensure consistency and accuracy.
 
@@ -48,12 +49,14 @@ Data preprocessing was performed using Pandas to ensure consistency and accuracy
 *Standardizing column names*
 *Verifying data types for numerical and categorical variables*
 *Preparing the dataset for analysis*
-4. Exploratory Data Analysis (EDA)
+
+3. Exploratory Data Analysis (EDA)
 Exploratory analysis was conducted to understand the structure of the dataset and identify patterns.Key tasks included
 Descriptive statistics for exam scores and study variables
 Distribution analysis of student performance levels
 Identification of potential trends in academic outcomes
-5. Data Visualization
+
+4. Data Visualization
 Several visualization techniques were used to explore relationships between variables.
 Visualizations Created
 
